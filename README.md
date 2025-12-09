@@ -1,0 +1,1 @@
+# eli-microsite-static-images
